@@ -58,6 +58,13 @@ C# Windows Forms chatbot integrating the Google Gemini API with:
 **BSc Informatics**  
 University of Piraeus
 
+## 🌍 Languages
+
+- Greek — Native
+- English — Fluent
+- German — Intermediate
+- Chinese (Mandarin) — HSK 1
+
 ## 🌱 Currently
 
 - Expanding my software development portfolio
